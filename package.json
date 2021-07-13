@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/KaleTEvans/social-network-api#readme",
   "dependencies": {
+    "express": "^4.17.1",
     "mongoose": "^5.13.2",
     "validator": "^13.6.0"
   }
